@@ -1,7 +1,5 @@
-# Project File Inventory
+# Project Inventory
 
-List of tracked project files.
+## Tracked project files
 
-```text
 README.md
-```
